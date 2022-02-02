@@ -1,0 +1,16 @@
+a:2:{i:0;s:356:"<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+  <loc>http://ura/catalog/2</loc>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>http://ura/catalog/3</loc>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>http://ura/catalog/4</loc>
+  <changefreq>daily</changefreq>
+ </url>
+</urlset>
+";i:1;O:25:"yii\caching\TagDependency":3:{s:4:"tags";a:1:{i:0;s:8:"products";}s:4:"data";a:1:{s:32:"260adfe40dddcd893faed0c0a3fb8867";s:21:"0.95104800 1640282313";}s:8:"reusable";b:0;}}

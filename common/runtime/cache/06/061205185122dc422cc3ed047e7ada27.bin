@@ -1,0 +1,12 @@
+a:2:{i:0;s:265:"<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+  <loc>http://ura/vova</loc>
+  <changefreq>weekly</changefreq>
+ </url>
+ <url>
+  <loc>http://ura/lud</loc>
+  <changefreq>weekly</changefreq>
+ </url>
+</urlset>
+";i:1;N;}
